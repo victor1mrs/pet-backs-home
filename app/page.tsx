@@ -55,7 +55,7 @@ const Home = () => {
                 className="text-center md:flex md:items-start md:text-left lg:block lg:text-center"
               >
                 <div className="md:flex-shrink-0 flex justify-center">
-                  <div className="h-16 w-16 flex items-center justify-center rounded-full bg-pink-100 text-pink-900">
+                  <div className="h-16 w-16 flex items-center justify-center rounded-full bg-rose-100 text-rose-900">
                     {<perk.Icon className="w-1/3 h-1/3" />}
                   </div>
                 </div>
