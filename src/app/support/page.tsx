@@ -2,11 +2,11 @@
  * v0 by Vercel.
  * @see https://v0.dev/t/VAKEtk85hs8
  */
-import MaxWidthWrapper from "@/components/MaxWidthWrapper"
-import { Badge } from "@/components/ui/badge"
-import { CardHeader, CardContent, Card } from "@/components/ui/card"
+import MaxWidthWrapper from "@/src/components/MaxWidthWrapper"
+import { Badge } from "@/src/components/ui/badge"
+import { CardHeader, CardContent, Card } from "@/src/components/ui/card"
 import Image from "next/image"
-import { Button } from "@/components/ui/button"
+import { Button } from "@/src/components/ui/button"
 import { HeartIcon } from "lucide-react"
 
 export default function Component() {

@@ -1,5 +1,5 @@
 import React from 'react'
-import { newUser } from '@/utils/api'
+import { newUser } from '@/src/utils/api'
 
 const SignUp = () => {
   return (

@@ -1,6 +1,6 @@
 "use client";
 
-import { formatPrice } from "@/lib/utils";
+import { formatPrice } from "@/src/lib/utils";
 import { Separator } from "./ui/separator";
 import {
   Sheet,

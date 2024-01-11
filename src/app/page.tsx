@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Button, buttonVariants } from "@/components/ui/button";
-import MaxWidthWrapper from "@/components/MaxWidthWrapper";
+import { Button, buttonVariants } from "@/src/components/ui/button";
+import MaxWidthWrapper from "@/src/components/MaxWidthWrapper";
 import { PawPrint, User, HeartHandshake } from "lucide-react";
 
 const perks = [
