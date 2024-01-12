@@ -3,9 +3,9 @@
  * @see https://v0.dev/t/k03QSfCCf9T
  */
 
-import { Button } from "@/src/components/ui/button"
-import { CardTitle, CardHeader, CardContent, Card } from "@/src/components/ui/card"
-import MaxWidthWrapper from "@/src/components/MaxWidthWrapper"
+import { Button } from "@/components/ui/button"
+import { CardTitle, CardHeader, CardContent, Card } from "@/components/ui/card"
+import MaxWidthWrapper from "@/components/MaxWidthWrapper"
 import Image from "next/image"
 
 const StorePage = () => {
